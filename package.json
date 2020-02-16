@@ -1,4 +1,5 @@
 {
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "name": "com.space-rock.core",
   "version": "1.0.0",
   "displayName": "Space Rock Core",
