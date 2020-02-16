@@ -1,6 +1,5 @@
 {
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
-  "name": "com.space-rock.core",
+  "name": "com.space-rock.spaceshipearth",
   "version": "1.0.0",
   "displayName": "Space Rock Core",
   "description": "A game framework for Unity.",
