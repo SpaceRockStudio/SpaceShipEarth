@@ -1,0 +1,34 @@
+{
+  "name": "com.space-rock.core",
+  "version": "1.0.0",
+  "displayName": "Space Rock Core",
+  "description": "A game framework for Unity.",
+  "unity": "2019.2",
+  "unityRelease": "18f1",
+  "keywords": [
+    "space",
+    "rock",
+    "framework"
+  ],
+  "author": {
+    "name": "Space Rock",
+    "email": "rus@spacerockstudio.com",
+    "url": "https://www.spacerockstudio.com"
+  },
+  "dependencies": {
+    "com.unity.2d.sprite": "1.0.0",
+    "com.unity.2d.tilemap": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Art Pack",
+      "description": "Art to get you started.",
+      "path": "Samples~/Art Pack"
+    },
+    {
+      "displayName": "Camera Fitter Example",
+      "description": "An example of the Camera Fitter in action.",
+      "path": "Samples~/Camera Fitter"
+    }
+  ]
+}
